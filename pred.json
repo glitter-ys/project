@@ -1,0 +1,14 @@
+[
+  {
+    "imgname": "sample_pass.jpg",
+    "Ispass": 1
+  },
+  {
+    "imgname": "sample_fail.jpg",
+    "Ispass": 0
+  },
+  {
+    "imgname": "sample_no_floating.jpg",
+    "Ispass": 1
+  }
+]
